@@ -1,5 +1,5 @@
 {
-  "name": "federico",
+  "name": "NyanBot",
   "version": "99999.9.9",
   "description": "Termux only",
   "main": "samu.js",
@@ -45,6 +45,6 @@
   "scripts": {
     "start": "node samu.js"
   },
-  "author": "beto",
+  "author": "Sam y Perry",
   "homepage": "https://github.com/Samu330/NyanBot/readme"
 }
