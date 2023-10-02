@@ -300,7 +300,7 @@ console.log('Error : %s', color(e, 'red'))
 }
 })
 ////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
-samu330.on('chat-update',) async(sam) => {
+samu330.on('chat-update', async(sam) => {
     try {
         if (!sam.hasNewMessage) return
         if (!sam.messages) return
