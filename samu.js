@@ -102,7 +102,7 @@ const sleep = async (ms) => {
 ////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
 api = 'CONTACTAME PARA OBTENER LA API'
 fak = 'samu3300'
-prefix = '.'
+prefix = '#'
 apikey = 'LindowApi'
 hit_today = []
 blocked = []
@@ -436,7 +436,7 @@ samu330.on('chat-update', async(sam) => {
 			wait: '⌛ espera rectm ⌛',
 			success: '✔️ 𝙎𝙐𝙎𝙎𝙀𝙎 ✔️',
 			nsfw: 'no'
-			ferr: 'Intentalo de nuevo mas tarde',
+
 			error: {
 			stick: '[❗] 𝙀𝙍𝙍𝙊𝙍 intentalo de nuevo, da error a la primera ❌',
 			Iv: '❌ Link invalido ❌'

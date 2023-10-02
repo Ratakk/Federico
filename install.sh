@@ -249,7 +249,7 @@ echo -e '\033[0m\033[1;32m
  | (_| | | |_| | | (_| | | | | (_) |  _   _   _ 
   \__,_|  \__,_|  \__,_| |_|  \___/  (_) (_) (_)          
  \033[0m'                      
- termimage nyan.png
+ termimage nyan.jpg
  npm audit fix --force
 # Author: Ashton Seth Reimer
 # Date: Summer 2010
