@@ -436,7 +436,7 @@ samu330.on('chat-update', async(sam) => {
 			wait: '⌛ espera rectm ⌛',
 			success: '✔️ 𝙎𝙐𝙎𝙎𝙀𝙎 ✔️',
 			nsfw: 'no'
-			error: 'Intentalo de nuevo mas tarde',
+			ferr: 'Intentalo de nuevo mas tarde',
 			error: {
 			stick: '[❗] 𝙀𝙍𝙍𝙊𝙍 intentalo de nuevo, da error a la primera ❌',
 			Iv: '❌ Link invalido ❌'
