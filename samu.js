@@ -201,7 +201,7 @@ console.log(chalk.greenBright("├"), chalk.keyword("yellow")("[ DESCRIPCION CAM
 }
 })
 ////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
-samu330.on('group-participants-update', yasync (anu) => {
+samu330.on('group-participants-update', async (anu) => {
 if (!welkom.includes(anu.jid)) return
 try {
 const mdata = await samu330.groupMetadata(anu.jid)
